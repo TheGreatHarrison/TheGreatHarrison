@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a qualified embedded engineer with a passion for creating.
+I'm an embedded engineer with a passion for creating.
 My journey is all about pushing the boundaries of technology, one line of code at a time.
 
 ## What I Do
